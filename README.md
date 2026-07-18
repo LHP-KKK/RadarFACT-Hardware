@@ -148,24 +148,5 @@ This repository is an independent project and is not endorsed by or affiliated
 with Carnegie Mellon University, Bosch Research, the University of
 Wisconsin-Madison, or the GRT authors.
 
-## Citation
 
-When this repository is useful, please cite the original GRT work:
-
-```bibtex
-@article{huang2025towards,
-  title   = {Towards Foundational Models for Single-Chip Radar},
-  author  = {Huang, Tianshu and Prabhakara, Akarsh and Chen, Chuhan and
-             Karhade, Jay and Ramanan, Deva and O'Toole, Matthew and Rowe, Anthony},
-  journal = {arXiv preprint arXiv:2509.12482},
-  year    = {2025}
-}
-```
-
-## License
-
-Original code and documentation in this repository are released under the MIT
-License unless a file or directory states otherwise. Third-party firmware,
-vendor material, upstream code, and file formats retain their original terms.
-See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
