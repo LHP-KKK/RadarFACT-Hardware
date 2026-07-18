@@ -1,0 +1,10 @@
+matplotlib>=3.5
+numpy>=1.23
+opencv-contrib-python>=4.8
+Pillow>=9.0
+PyYAML>=6.0
+reportlab>=3.6
+
+# ROS 2 Python packages, cv_bridge, rosbag2_py, and Livox message bindings are
+# installed through ROS/colcon and are intentionally not listed as pip wheels.
+

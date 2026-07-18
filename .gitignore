@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# ROS 2 / colcon
+build/
+install/
+log/
+.ros/
+
+# Recorded data and generated outputs
+*.db3
+*.mcap
+*.bag
+*.avi
+*.npy
+*.npz
+*.bin
+*.pcd
+*.ply
+*.las
+*.csv
+raw_radar/
+raw_rosbags/
+demo_traces/
+range_profile_vis/
+undistort_vis/
+phone_imgs/
+
+# Local configuration and secrets
+.env
+.env.*
+*.local.yaml
+*.local.json
+config/private/
+
+# IDE / OS / embedded build output
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Objects/
+Listings/
+*.o
+*.obj
+*.elf
+*.hex
+*.map
+*.lst
+*.dep
+*.dbgconf
+*.uvguix.*
+*.backup
+JLinkLog.txt
+
