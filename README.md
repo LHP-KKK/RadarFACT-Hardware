@@ -1,7 +1,5 @@
 # RadarFACT-Hardware
 
-[简体中文](README_zh-CN.md)
-
 Open hardware, acquisition, calibration, and data-preparation resources for a
 RadarFACT-oriented radar-camera-LiDAR research platform.
 
